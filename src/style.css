@@ -40,7 +40,7 @@ body {
 
 /* Styling for ClassList Manipulation - Pulsating ClassList */
 .alert-mode {
-    border: 3px solid #ef4444 !important;
+    border: 3px solid #f394d2 !important;
     background-color: #fef2f2 !important;
     
     /* This links the element to our custom animation script below */
